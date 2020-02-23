@@ -1,0 +1,5 @@
+helloselenium\RunCucumberTest.class
+pages\HomePage.class
+pages\ShiftingContentPage.class
+pages\UploadPage.class
+helloselenium\UploadFile.class
